@@ -1,4 +1,4 @@
-import { useSelector, useDispatch } from 'redux';
+import { useSelector, useDispatch } from 'react-redux';
 import { increment, decrement } from './actions';
 
 const Counter = () => {

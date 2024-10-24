@@ -1,4 +1,3 @@
-// reducer.js
 const initialState = {
   count: 0
 };
